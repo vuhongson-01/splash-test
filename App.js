@@ -8,7 +8,7 @@
 
 import React from 'react';
 import type {Node} from 'react';
-import RNBootSplash from "react-native-bootsplash";
+import RNBootSplash from "react-native-boot-splash";
 import {
   SafeAreaView,
   ScrollView,

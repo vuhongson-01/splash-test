@@ -12,7 +12,7 @@
   "dependencies": {
     "react": "18.0.0",
     "react-native": "0.69.4",
-    "react-native-bootsplash": "^3.2.4"
+    "react-native-boot-splash": "git+ssh://git@github.com:vuhongson-01/react-native-boot-splash-v3.2.4.git"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
